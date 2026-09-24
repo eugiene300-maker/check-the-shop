@@ -2,7 +2,7 @@
 
 A static San Jose cannabis license lookup. Python 3 and Node.js, no package dependencies.
 
-Live: https://check-the-shop.web.app
+Live: https://eugiene300-maker.github.io/check-the-shop
 
 ## Commands
 
@@ -21,4 +21,8 @@ State status and city address matches are separate. An address match is not an o
 
 ## Deployment
 
-Publish `dist/` to any static host; no build step is required. Set the final public address in `data/config.json` (or the `SITE_URL` environment variable) and run `python3 scripts/build.py` so canonical URLs, sitemap and llms.txt match. The scheduled workflow in `.github/workflows/` refreshes source data, rebuilds and commits the updated pages.
+Primary address: https://eugiene300-maker.github.io/check-the-shop/ (GitHub Pages, published by `.github/workflows/pages.yml` on every push to `main` and after each scheduled refresh). Canonical URLs, the sitemap and llms.txt point to this address; it is set in `data/config.json`.
+
+Mirrors on other static hosts: output directory `dist`. To keep the canonical pointing at the primary address, use no build command. To give a mirror its own canonical and sitemap, use build command `python3 scripts/build.py` with Python 3.12+ and set the `SITE_URL` environment variable to that host's address.
+
+The sponsored link stays clearly labeled. Search order is source status and alphabetic, never sponsor priority.
