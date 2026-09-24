@@ -1,0 +1,118 @@
+{
+  "source": "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/be-confident-buy-legal",
+  "source_date": "2026-08-06",
+  "reviewed_at": "2026-09-24T00:35:56.398337+00:00",
+  "method": "official page text retrieved through search index; direct page fetch returned HTTP 403",
+  "records": [
+    {
+      "name": "10th St Cannabis Co.",
+      "address": "2121 S 10th St.",
+      "district": "7"
+    },
+    {
+      "name": "CA Collective",
+      "address": "210 Phelan Ave.",
+      "district": "7"
+    },
+    {
+      "name": "Cakehouse",
+      "address": "1075 N 10th St.",
+      "district": "3"
+    },
+    {
+      "name": "Canna Culture",
+      "address": "3591 Charter Park Dr.",
+      "district": "2"
+    },
+    {
+      "name": "Canna Culture - Midtown",
+      "address": "1101 W San Carlos St.",
+      "district": "6"
+    },
+    {
+      "name": "Elemental Wellness Center",
+      "address": "985 Timothy Dr.",
+      "district": "3"
+    },
+    {
+      "name": "Exotix",
+      "address": "1859 Little Orchard St.",
+      "district": "7"
+    },
+    {
+      "name": "Harborside",
+      "address": "1365 N 10th St.",
+      "district": "3"
+    },
+    {
+      "name": "Haze #1",
+      "address": "1154 Saratoga Ave.",
+      "district": "1"
+    },
+    {
+      "name": "Haze #2",
+      "address": "2436 Almaden Rd.",
+      "district": "9"
+    },
+    {
+      "name": "Off the Charts",
+      "address": "2200 Stevens Creek Blvd.",
+      "district": "6"
+    },
+    {
+      "name": "Perfect Union",
+      "address": "2200 Business Circle",
+      "district": "6"
+    },
+    {
+      "name": "Plu2O",
+      "address": "3100 Stevens Creek Blvd.",
+      "district": "1"
+    },
+    {
+      "name": "Purple Lotus Patient Center #1",
+      "address": "752 Commercial St.",
+      "district": "3"
+    },
+    {
+      "name": "Purple Lotus Patient Center #2",
+      "address": "66 W Santa Clara St.",
+      "district": "3"
+    },
+    {
+      "name": "Risah Inc.",
+      "address": "99 S Almaden Blvd. Suite 613",
+      "district": "3"
+    },
+    {
+      "name": "Stiiizy I/Caliva",
+      "address": "1695 S 7th St.",
+      "district": "7"
+    },
+    {
+      "name": "Stiiizy II/Deli by Caliva San Jose",
+      "address": "92 Pullman Way",
+      "district": "7"
+    },
+    {
+      "name": "Stiiizy III/Airfield Supply Company",
+      "address": "1190 Coleman Ave.",
+      "district": "6"
+    },
+    {
+      "name": "Theraleaf",
+      "address": "1014 Timothy Dr.",
+      "district": "3"
+    },
+    {
+      "name": "Urbn Leaf",
+      "address": "2943 Daylight Way",
+      "district": "7"
+    },
+    {
+      "name": "White Fire",
+      "address": "111 Old Tully Rd.",
+      "district": "7"
+    }
+  ]
+}

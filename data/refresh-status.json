@@ -1,0 +1,15 @@
+{
+  "attempted_at": "2026-09-24T00:35:56.398337+00:00",
+  "checks": [
+    {
+      "source": "DCC",
+      "status": "ok",
+      "records": 38
+    },
+    {
+      "source": "SJPD",
+      "status": "error",
+      "message": "Direct fetch returned HTTP 403. The dated city list was reviewed through indexed official page text."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "reviewed": "2026-09-24",
+  "businesses": [
+    {
+      "name": "Purple Lotus",
+      "category": "Dispensary",
+      "sponsored": true,
+      "source": "https://plpcsanjose.com/",
+      "id": "purple-lotus"
+    },
+    {
+      "id": "nirvana",
+      "name": "Nirvana Soul",
+      "category": "Coffee & community",
+      "description": "Coffee, tea, and waffles at a sister-founded café in downtown San Jose.",
+      "image": "business-nirvana.webp",
+      "alt": "Nirvana Soul founders behind the counter of their downtown San Jose coffee shop",
+      "source": "https://www.nirvanasoulcoffee.com/",
+      "sponsored": false
+    },
+    {
+      "id": "peters",
+      "name": "Peters’ Bakery",
+      "category": "Bakery",
+      "description": "A San Jose bakery on Alum Rock Avenue known for burnt almond cake.",
+      "image": "business-peters.webp",
+      "alt": "Decorated burnt almond cakes from Peters’ Bakery in San Jose",
+      "source": "https://www.petersbakery.com/",
+      "sponsored": false
+    },
+    {
+      "id": "tech",
+      "name": "The Tech Interactive",
+      "category": "Science & film",
+      "description": "Hands-on exhibits and an IMAX Dome Theater at 201 South Market Street.",
+      "image": "business-tech.webp",
+      "alt": "The Tech Interactive building in downtown San Jose.",
+      "source": "https://www.thetech.org/visit/",
+      "sponsored": false
+    }
+  ]
+}

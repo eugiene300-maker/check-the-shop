@@ -1,0 +1,39 @@
+[
+  {
+    "file": "business-purple-lotus.webp",
+    "alt": "Purple Lotus dispensary exterior in San Jose",
+    "author": "Purple Lotus",
+    "source": "https://plpcsanjose.com/images/purple-lotus-dispensary-building.jpg",
+    "license": "Rights held by Purple Lotus",
+    "license_url": "https://plpcsanjose.com/"
+  },
+  {
+    "alt": "Nirvana Soul founders behind the counter of their downtown San Jose coffee shop",
+    "author": "Nirvana Soul Coffee",
+    "source": "https://www.nirvanasoulcoffee.com/",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5e252c7928d64d4b980759af/1667867120026-XCZY5GH1DI3WG7WF3G89/NS2Years-36+copy.jpg?format=1500w",
+    "file": "business-nirvana.webp",
+    "license": "Rights held by Nirvana Soul Coffee",
+    "license_url": "https://www.nirvanasoulcoffee.com/"
+  },
+  {
+    "alt": "Decorated burnt almond cakes from Peters’ Bakery in San Jose",
+    "author": "Peters’ Bakery",
+    "source": "https://www.petersbakery.com/",
+    "image_url": "https://static.wixstatic.com/media/302b28_31079cc37dca4bed8948b3e428acf61e~mv2.jpg",
+    "file": "business-peters.webp",
+    "license": "Rights held by Peters’ Bakery",
+    "license_url": "https://www.petersbakery.com/"
+  },
+  {
+    "file": "business-tech.webp",
+    "alt": "The Tech Interactive building in downtown San Jose.",
+    "caption": "The Tech Museum in downtown San Jose; local technology context, not an endorsement of cannabis use.",
+    "author": "HarshLight from San Jose, CA, USA / Wikimedia Commons",
+    "source": "https://commons.wikimedia.org/wiki/File:Tech_Museum_of_Innovation_(3236312626)_(cropped).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Tech_Museum_of_Innovation_%283236312626%29_%28cropped%29.jpg/1280px-Tech_Museum_of_Innovation_%283236312626%29_%28cropped%29.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org",
+    "replaced": true
+  }
+]
