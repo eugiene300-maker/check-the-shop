@@ -2,9 +2,9 @@
 
 San Jose cannabis license-record lookup. State status and city address matches are separate. Results are dated snapshots, not findings of legality.
 
-- [One shop. Two records.](https://eugiene300-maker.github.io/check-the-shop/guide-two-checks.html)
-- [The sign isn’t always the legal name.](https://eugiene300-maker.github.io/check-the-shop/guide-names-and-addresses.html)
-- [Can’t find the shop? Start here.](https://eugiene300-maker.github.io/check-the-shop/guide-no-match.html)
+- [One shop. Two records.](https://check-the-shop.vercel.app/guide-two-checks.html)
+- [The sign isn’t always the legal name.](https://check-the-shop.vercel.app/guide-names-and-addresses.html)
+- [Can’t find the shop? Start here.](https://check-the-shop.vercel.app/guide-no-match.html)
 
-- [Sources](https://eugiene300-maker.github.io/check-the-shop/sources.html)
-- [Public data](https://eugiene300-maker.github.io/check-the-shop/data.json)
+- [Sources](https://check-the-shop.vercel.app/sources.html)
+- [Public data](https://check-the-shop.vercel.app/data.json)
