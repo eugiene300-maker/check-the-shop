@@ -1,0 +1,35 @@
+name: Daily refresh
+on:
+  schedule:
+    - cron: '35 13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: source-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh public license records (keeps last valid snapshot on failure)
+        continue-on-error: true
+        run: python3 scripts/refresh.py
+      - run: python3 scripts/build.py
+      - run: python3 scripts/check.py && npm test
+      - name: Commit refreshed data and pages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data dist
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh public license records'
+            git push
+          fi
