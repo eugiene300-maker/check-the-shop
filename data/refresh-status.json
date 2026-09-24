@@ -1,5 +1,5 @@
 {
-  "attempted_at": "2026-09-24T00:35:56.398337+00:00",
+  "attempted_at": "2026-09-24T17:56:21.517355+00:00",
   "checks": [
     {
       "source": "DCC",
@@ -9,7 +9,7 @@
     {
       "source": "SJPD",
       "status": "error",
-      "message": "Direct fetch returned HTTP 403. The dated city list was reviewed through indexed official page text."
+      "message": "HTTP Error 403: Forbidden"
     }
   ]
 }
