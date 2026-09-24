@@ -1,0 +1,15 @@
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path');
+const search=require('../src/app.js'),data=JSON.parse(fs.readFileSync(path.join(__dirname,'../dist/data.json'),'utf8')).records;
+assert.equal(search.filter(data,'C10-0000241-LIC').length,1);
+assert.equal(search.filter(data,'C100000241LIC').length,1);
+assert(search.filter(data,'752 Commercial Street').length>=2);
+assert(search.filter(data,'Purple Lotus').some(x=>x.premiseStreetAddress.startsWith('66 ')));
+assert(search.filter(data,'Caliva').some(x=>x.premiseStreetAddress==='1695 S 7th St'));
+assert(search.filter(data,'JASANA').length>=2);
+assert.equal(search.filter(data,'a shop that is not in these records').length,0);
+assert.equal(search.filter(data,'<script>alert(1)</script>').length,0);
+assert(search.filter(data,'','active').every(x=>search.active(x)));
+assert(search.filter(data,'','other').every(x=>!search.active(x)));
+assert(search.filter(data,'The Guild').some(x=>x.licenseStatus==='Surrendered'));
+assert(!data.find(x=>x.licenseNumber==='C10-0001686-LIC').cityMatches.length,'Different street numbers must not be merged');
+console.log('Passed: exact license, punctuation, address aliases, former city names, legal name, missing result, status filters and disputed address.');
