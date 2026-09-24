@@ -1,9 +1,9 @@
 from pathlib import Path
 from html import escape as e
-import json,re,shutil,datetime
+import json,re,shutil,datetime,os
 ROOT=Path(__file__).resolve().parents[1];OUT=ROOT/'dist';OUT.mkdir(exist_ok=True);(OUT/'assets').mkdir(exist_ok=True)
 for old in OUT.glob('*.html'):old.unlink()
-CONFIG=json.loads((ROOT/'data/config.json').read_text());URL=CONFIG['url'];S=json.loads((ROOT/'data/state.json').read_text());C=json.loads((ROOT/'data/city.json').read_text());PAGES=[]
+CONFIG=json.loads((ROOT/'data/config.json').read_text());URL=(os.getenv('SITE_URL') or ('https://'+os.environ['VERCEL_PROJECT_PRODUCTION_URL'] if os.getenv('VERCEL_PROJECT_PRODUCTION_URL') else CONFIG['url'])).rstrip('/');S=json.loads((ROOT/'data/state.json').read_text());C=json.loads((ROOT/'data/city.json').read_text());PAGES=[]
 def date(value):return datetime.date.fromisoformat(value[:10]).strftime('%b %d, %Y').replace(' 0',' ')
 def norm_address(address):
  s=re.split(r',|\bsuite\b|\bste\b|#',address.lower())[0]
