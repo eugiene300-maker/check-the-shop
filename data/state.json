@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-25T18:03:16.514729+00:00",
+  "checked_at": "2026-09-26T17:22:30.703510+00:00",
   "source": "https://search.cannabis.ca.gov/",
   "api": "https://as-dcc-pub-cann-w-p-002.azurewebsites.net/licenses/AdvancedSearch",
   "records": [
     {
-      "id": 16792,
+      "id": 11077,
       "licenseNumber": "C10-0000117-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -18,10 +18,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 16909,
+      "id": 11153,
       "licenseNumber": "C10-0000241-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -35,10 +35,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 16954,
+      "id": 11190,
       "licenseNumber": "C10-0000255-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -52,10 +52,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 8423,
+      "id": 11343,
       "licenseNumber": "C10-0000357-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -69,10 +69,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95136",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 8549,
+      "id": 11254,
       "licenseNumber": "C10-0000435-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -86,10 +86,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 8555,
+      "id": 11260,
       "licenseNumber": "C10-0000441-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -103,10 +103,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 20124,
+      "id": 11535,
       "licenseNumber": "C10-0000514-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -120,10 +120,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95110",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 20185,
+      "id": 13542,
       "licenseNumber": "C10-0000565-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -137,10 +137,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95133",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 11389,
+      "id": 13944,
       "licenseNumber": "C10-0001339-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -154,10 +154,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95129",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 15647,
+      "id": 14324,
       "licenseNumber": "C10-0001440-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -171,10 +171,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 15650,
+      "id": 14356,
       "licenseNumber": "C10-0001443-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -188,10 +188,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 15729,
+      "id": 20293,
       "licenseNumber": "C10-0001491-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -205,10 +205,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95125",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 15897,
+      "id": 540,
       "licenseNumber": "C10-0001576-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -222,10 +222,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18372,
+      "id": 571,
       "licenseNumber": "C10-0001638-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -239,10 +239,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95117",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18373,
+      "id": 572,
       "licenseNumber": "C10-0001639-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -256,10 +256,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95126",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18445,
+      "id": 4520,
       "licenseNumber": "C10-0001651-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -273,10 +273,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95126",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18456,
+      "id": 4531,
       "licenseNumber": "C10-0001662-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -290,10 +290,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95128",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18485,
+      "id": 4735,
       "licenseNumber": "C10-0001686-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -307,10 +307,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95128",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18525,
+      "id": 4745,
       "licenseNumber": "C10-0001697-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -324,10 +324,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18678,
+      "id": 4891,
       "licenseNumber": "C10-0001751-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -341,10 +341,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18680,
+      "id": 4893,
       "licenseNumber": "C10-0001753-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -358,10 +358,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18733,
+      "id": 4944,
       "licenseNumber": "C10-0001775-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -375,10 +375,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18740,
+      "id": 4951,
       "licenseNumber": "C10-0001782-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -392,10 +392,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18812,
+      "id": 4994,
       "licenseNumber": "C10-0001794-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -409,10 +409,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95129",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18813,
+      "id": 4995,
       "licenseNumber": "C10-0001795-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -426,10 +426,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95125",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18815,
+      "id": 4997,
       "licenseNumber": "C10-0001797-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -443,10 +443,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 18821,
+      "id": 5003,
       "licenseNumber": "C10-0001804-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -460,10 +460,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95128",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 1677,
+      "id": 5081,
       "licenseNumber": "C10-0001819-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -477,10 +477,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 1678,
+      "id": 5082,
       "licenseNumber": "C10-0001820-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -494,10 +494,27 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95110",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 10362,
+      "id": 5089,
+      "licenseNumber": "C10-0001827-LIC",
+      "licenseStatus": "Active",
+      "licenseType": "Commercial -  Retailer",
+      "licenseDesignation": "Adult-Use and Medicinal",
+      "issueDate": "2026-09-25T00:00:00",
+      "expirationDate": "2027-09-25T00:00:00",
+      "businessLegalName": "Flor Del Carmen Inc. [Equity Retailer]",
+      "businessDbaName": "Flor Del Carmen [Equity Retailer]",
+      "activity": "Data Not Available",
+      "premiseStreetAddress": "434 S 1st St",
+      "premiseCity": "San Jose",
+      "premiseState": "CA",
+      "premiseZipCode": "95113",
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
+    },
+    {
+      "id": 16151,
       "licenseNumber": "C12-0000029-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -506,15 +523,15 @@
       "expirationDate": "2027-05-30T00:00:00",
       "businessLegalName": "Ewc Resources, Inc",
       "businessDbaName": "Elemental Wellness Center",
-      "activity": "Nursery, Retailer, Cultivator (less than 10K sq ft), Distributor, Indoor",
+      "activity": "Nursery, Retailer, Cultivator (less than 10K sq ft), Indoor, Distributor",
       "premiseStreetAddress": "985 Timothy Dr",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95133",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 10713,
+      "id": 16189,
       "licenseNumber": "C12-0000112-LIC",
       "licenseStatus": "Surrendered",
       "licenseType": "Commercial -  Microbusiness",
@@ -523,15 +540,15 @@
       "expirationDate": "2021-06-26T00:00:00",
       "businessLegalName": "Dfws, Inc.",
       "businessDbaName": "The Guild",
-      "activity": "Cultivator (less than 10K sq ft), Level 1 Manufacturer, Distributor, Retailer",
+      "activity": "Cultivator (less than 10K sq ft), Distributor, Level 1 Manufacturer, Retailer",
       "premiseStreetAddress": "2943 Daylight Way",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 10825,
+      "id": 16215,
       "licenseNumber": "C12-0000138-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -545,10 +562,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95125",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 10831,
+      "id": 12189,
       "licenseNumber": "C12-0000144-LIC",
       "licenseStatus": "Expired",
       "licenseType": "Commercial -  Microbusiness",
@@ -562,10 +579,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 11318,
+      "id": 17519,
       "licenseNumber": "C12-0000183-LIC",
       "licenseStatus": "Expired",
       "licenseType": "Commercial -  Microbusiness",
@@ -579,10 +596,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 11375,
+      "id": 17552,
       "licenseNumber": "C12-0000216-LIC",
       "licenseStatus": "Surrendered",
       "licenseType": "Commercial -  Microbusiness",
@@ -596,10 +613,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 11378,
+      "id": 12627,
       "licenseNumber": "C12-0000219-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -613,10 +630,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 11643,
+      "id": 12645,
       "licenseNumber": "C12-0000237-LIC",
       "licenseStatus": "Expired",
       "licenseType": "Commercial -  Microbusiness",
@@ -630,10 +647,10 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     },
     {
-      "id": 12151,
+      "id": 12887,
       "licenseNumber": "C12-0000333-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -642,12 +659,12 @@
       "expirationDate": "2026-12-09T00:00:00",
       "businessLegalName": "Ul San Jose LLC",
       "businessDbaName": "Urbn Leaf",
-      "activity": "Retailer, Nursery, Distributor, Cultivator (less than 10K sq ft)",
+      "activity": "Nursery, Retailer, Cultivator (less than 10K sq ft), Distributor",
       "premiseStreetAddress": "2943 Daylight Way",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-25T09:43:35.07"
+      "dataRefreshedDate": "2026-09-26T06:31:36.7733333"
     }
   ]
 }
