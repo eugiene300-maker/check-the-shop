@@ -1,11 +1,11 @@
 {
-  "state_checked_at": "2026-09-28T20:13:14.051243+00:00",
+  "state_checked_at": "2026-09-29T18:51:06.524385+00:00",
   "city_source_date": "2026-08-06",
   "city_source": "https://www.sjpd.org/about-us/organization/chief-executive-officer/cannabis-regulation/be-confident-buy-legal",
   "state_source": "https://search.cannabis.ca.gov/",
   "records": [
     {
-      "id": 9599,
+      "id": 15290,
       "licenseNumber": "C12-0000219-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -14,12 +14,12 @@
       "expirationDate": "2027-07-23T00:00:00",
       "businessLegalName": "Btd, Inc.",
       "businessDbaName": "10th Street Cannabis Co.",
-      "activity": "Distributor, Level 1 Manufacturer, Retailer",
+      "activity": "Level 1 Manufacturer, Distributor, Retailer",
       "premiseStreetAddress": "2121 10th St S",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "10th Street Cannabis Co.",
       "url": "license-c12-0000219-lic.html",
       "cityMatches": [
@@ -32,7 +32,7 @@
       "searchText": "10th Street Cannabis Co. Btd, Inc. C12-0000219-LIC 2121 10th St S 10th St Cannabis Co."
     },
     {
-      "id": 12852,
+      "id": 19209,
       "licenseNumber": "C10-0001639-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -46,14 +46,14 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95126",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "313 Management LLC",
       "url": "license-c10-0001639-lic.html",
       "cityMatches": [],
       "searchText": "313 Management LLC 313 Management LLC C10-0001639-LIC 1456 W San Carlos St"
     },
     {
-      "id": 954,
+      "id": 18068,
       "licenseNumber": "C10-0000514-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -67,7 +67,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95110",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Airfield Supply Co.",
       "url": "license-c10-0000514-lic.html",
       "cityMatches": [
@@ -80,7 +80,7 @@
       "searchText": "Airfield Supply Co. Captain Kirk Services, Inc. C10-0000514-LIC 1190 Coleman Ave Stiiizy III/Airfield Supply Company"
     },
     {
-      "id": 19606,
+      "id": 11432,
       "licenseNumber": "C10-0000255-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -94,7 +94,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "CA Collective",
       "url": "license-c10-0000255-lic.html",
       "cityMatches": [
@@ -107,7 +107,7 @@
       "searchText": "CA Collective Ntz, Inc. C10-0000255-LIC 210 Phelan Ave CA Collective"
     },
     {
-      "id": 20884,
+      "id": 13703,
       "licenseNumber": "C10-0000357-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -121,7 +121,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95136",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Canna Culture",
       "url": "license-c10-0000357-lic.html",
       "cityMatches": [
@@ -134,7 +134,7 @@
       "searchText": "Canna Culture Canna Culture Corporation C10-0000357-LIC 3591 Charter Park Dr, Suite 20 Canna Culture"
     },
     {
-      "id": 5580,
+      "id": 20027,
       "licenseNumber": "C10-0001651-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -148,7 +148,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95126",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Canna Culture Mid Town",
       "url": "license-c10-0001651-lic.html",
       "cityMatches": [
@@ -161,7 +161,7 @@
       "searchText": "Canna Culture Mid Town Canna Culture Corporation C10-0001651-LIC 1101 W San Carlos St Canna Culture - Midtown"
     },
     {
-      "id": 4417,
+      "id": 16609,
       "licenseNumber": "C10-0001443-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -175,7 +175,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Deli by Caliva San Jose",
       "url": "license-c10-0001443-lic.html",
       "cityMatches": [
@@ -188,7 +188,7 @@
       "searchText": "Deli by Caliva San Jose Caliva Camisj2, Inc. C10-0001443-LIC 92 Pullman Way Stiiizy II/Deli by Caliva San Jose"
     },
     {
-      "id": 13342,
+      "id": 1855,
       "licenseNumber": "C12-0000029-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -197,12 +197,12 @@
       "expirationDate": "2027-05-30T00:00:00",
       "businessLegalName": "Ewc Resources, Inc",
       "businessDbaName": "Elemental Wellness Center",
-      "activity": "Nursery, Cultivator (less than 10K sq ft), Distributor, Retailer, Indoor",
+      "activity": "Nursery, Retailer, Cultivator (less than 10K sq ft), Indoor, Distributor",
       "premiseStreetAddress": "985 Timothy Dr",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95133",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Elemental Wellness Center",
       "url": "license-c12-0000029-lic.html",
       "cityMatches": [
@@ -215,7 +215,7 @@
       "searchText": "Elemental Wellness Center Ewc Resources, Inc C12-0000029-LIC 985 Timothy Dr Elemental Wellness Center"
     },
     {
-      "id": 9354,
+      "id": 16872,
       "licenseNumber": "C12-0000138-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -224,12 +224,12 @@
       "expirationDate": "2027-07-02T00:00:00",
       "businessLegalName": "Lucrum Enterprises, Inc.",
       "businessDbaName": "Exotix",
-      "activity": "Level 1 Manufacturer, Retailer, Distributor",
+      "activity": "Retailer, Level 1 Manufacturer, Distributor",
       "premiseStreetAddress": "1859 Little Orchard St",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95125",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Exotix",
       "url": "license-c12-0000138-lic.html",
       "cityMatches": [
@@ -242,7 +242,7 @@
       "searchText": "Exotix Lucrum Enterprises, Inc. C12-0000138-LIC 1859 Little Orchard St Exotix"
     },
     {
-      "id": 7328,
+      "id": 19910,
       "licenseNumber": "C10-0001827-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -256,14 +256,14 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Flor Del Carmen [Equity Retailer]",
       "url": "license-c10-0001827-lic.html",
       "cityMatches": [],
       "searchText": "Flor Del Carmen [Equity Retailer] Flor Del Carmen Inc. [Equity Retailer] C10-0001827-LIC 434 S 1st St"
     },
     {
-      "id": 8755,
+      "id": 15911,
       "licenseNumber": "C10-0000435-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -277,7 +277,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Harborside",
       "url": "license-c10-0000435-lic.html",
       "cityMatches": [
@@ -290,7 +290,7 @@
       "searchText": "Harborside San Jose Wellness C10-0000435-LIC 1365 N 10th Street St Harborside"
     },
     {
-      "id": 12500,
+      "id": 17741,
       "licenseNumber": "C10-0001339-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -304,7 +304,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95129",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Haze",
       "url": "license-c10-0001339-lic.html",
       "cityMatches": [
@@ -317,7 +317,7 @@
       "searchText": "Haze Jn Development, Inc. C10-0001339-LIC 1154 Saratoga Ave Haze #1"
     },
     {
-      "id": 5284,
+      "id": 18373,
       "licenseNumber": "C10-0001491-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -331,7 +331,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95125",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Haze",
       "url": "license-c10-0001491-lic.html",
       "cityMatches": [
@@ -344,7 +344,7 @@
       "searchText": "Haze Jn Development, Inc. C10-0001491-LIC 2436 Almaden Rd Haze #2"
     },
     {
-      "id": 7050,
+      "id": 19711,
       "licenseNumber": "C10-0001753-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -358,7 +358,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "JASANA CONSULTING",
       "url": "license-c10-0001753-lic.html",
       "cityMatches": [
@@ -371,7 +371,7 @@
       "searchText": "JASANA CONSULTING Jasana Consulting C10-0001753-LIC 66 W Santa Clara St Purple Lotus Patient Center #2"
     },
     {
-      "id": 7048,
+      "id": 19709,
       "licenseNumber": "C10-0001751-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -385,7 +385,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "JASANA CONSULTING",
       "url": "license-c10-0001751-lic.html",
       "cityMatches": [
@@ -398,7 +398,7 @@
       "searchText": "JASANA CONSULTING Jasana Consulting C10-0001751-LIC 752 Commercial St Purple Lotus Patient Center #1"
     },
     {
-      "id": 7236,
+      "id": 20808,
       "licenseNumber": "C10-0001794-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -412,7 +412,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95129",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Jn Development Medical, Inc.",
       "url": "license-c10-0001794-lic.html",
       "cityMatches": [
@@ -425,7 +425,7 @@
       "searchText": "Jn Development Medical, Inc. Jn Development Medical, Inc. C10-0001794-LIC 1154 Saratoga Ave Haze #1"
     },
     {
-      "id": 7237,
+      "id": 20809,
       "licenseNumber": "C10-0001795-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -439,7 +439,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95125",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Jn Development Medical, Inc.",
       "url": "license-c10-0001795-lic.html",
       "cityMatches": [
@@ -452,7 +452,7 @@
       "searchText": "Jn Development Medical, Inc. Jn Development Medical, Inc. C10-0001795-LIC 2436 Almaden Rd Haze #2"
     },
     {
-      "id": 8820,
+      "id": 15946,
       "licenseNumber": "C10-0000441-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -466,7 +466,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "NC3 Systems, INC.",
       "url": "license-c10-0000441-lic.html",
       "cityMatches": [
@@ -479,7 +479,7 @@
       "searchText": "NC3 Systems, INC. Nc3 Systems C10-0000441-LIC 1695 S 7th St Stiiizy I/Caliva"
     },
     {
-      "id": 7195,
+      "id": 19825,
       "licenseNumber": "C10-0001782-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -493,7 +493,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Ntz Medical, Inc.",
       "url": "license-c10-0001782-lic.html",
       "cityMatches": [
@@ -506,7 +506,7 @@
       "searchText": "Ntz Medical, Inc. Ntz Medical, Inc. C10-0001782-LIC 210 Phelan Ave CA Collective"
     },
     {
-      "id": 5591,
+      "id": 20038,
       "licenseNumber": "C10-0001662-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -520,7 +520,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95128",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Off the Charts",
       "url": "license-c10-0001662-lic.html",
       "cityMatches": [
@@ -533,7 +533,7 @@
       "searchText": "Off the Charts Otc San Jose LLC C10-0001662-LIC 2200 Stevens Creek Blvd Off the Charts"
     },
     {
-      "id": 6913,
+      "id": 20402,
       "licenseNumber": "C10-0001686-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -547,14 +547,14 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95128",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Perfect Union - San Jose, LLC",
       "url": "license-c10-0001686-lic.html",
       "cityMatches": [],
       "searchText": "Perfect Union - San Jose, LLC Perfect Union - San Jose, LLC C10-0001686-LIC 2220 Business Cir"
     },
     {
-      "id": 7245,
+      "id": 20817,
       "licenseNumber": "C10-0001804-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -568,14 +568,14 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95128",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Perfect Union San Jose Ii LLC",
       "url": "license-c10-0001804-lic.html",
       "cityMatches": [],
       "searchText": "Perfect Union San Jose Ii LLC Perfect Union San Jose Ii LLC C10-0001804-LIC 2220 Business Cir"
     },
     {
-      "id": 12851,
+      "id": 19208,
       "licenseNumber": "C10-0001638-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -589,7 +589,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95117",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "PLU2O",
       "url": "license-c10-0001638-lic.html",
       "cityMatches": [
@@ -602,7 +602,7 @@
       "searchText": "PLU2O Utopia Sj, Inc C10-0001638-LIC 3100 Stevens Creek Blvd Plu2O"
     },
     {
-      "id": 4414,
+      "id": 16606,
       "licenseNumber": "C10-0001440-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -616,7 +616,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Purple Lotus",
       "url": "license-c10-0001440-lic.html",
       "cityMatches": [
@@ -629,7 +629,7 @@
       "searchText": "Purple Lotus Vmk, Inc. C10-0001440-LIC 66 W Santa Clara St Purple Lotus Patient Center #2"
     },
     {
-      "id": 19592,
+      "id": 11332,
       "licenseNumber": "C10-0000241-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -643,7 +643,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Purple Lotus",
       "url": "license-c10-0000241-lic.html",
       "cityMatches": [
@@ -656,7 +656,7 @@
       "searchText": "Purple Lotus Vmk, Inc. C10-0000241-LIC 752 Commercial St Purple Lotus Patient Center #1"
     },
     {
-      "id": 6983,
+      "id": 20367,
       "licenseNumber": "C10-0001697-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -670,7 +670,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Risah Inc.",
       "url": "license-c10-0001697-lic.html",
       "cityMatches": [
@@ -683,7 +683,7 @@
       "searchText": "Risah Inc. Risah Inc. C10-0001697-LIC 99 S Almaden Blvd, Suite 613 Risah Inc."
     },
     {
-      "id": 7188,
+      "id": 19818,
       "licenseNumber": "C10-0001775-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -697,7 +697,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95113",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Risah Medical Inc.",
       "url": "license-c10-0001775-lic.html",
       "cityMatches": [
@@ -710,7 +710,7 @@
       "searchText": "Risah Medical Inc. Risah Medical Inc. C10-0001775-LIC 99 S Almaden Blvd, Suite 613 Risah Inc."
     },
     {
-      "id": 7321,
+      "id": 19903,
       "licenseNumber": "C10-0001820-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -724,7 +724,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95110",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "STIIIZY San Jose III LLC",
       "url": "license-c10-0001820-lic.html",
       "cityMatches": [
@@ -737,7 +737,7 @@
       "searchText": "STIIIZY San Jose III LLC Stiiizy San Jose Iii LLC C10-0001820-LIC 1190 Coleman Ave Stiiizy III/Airfield Supply Company"
     },
     {
-      "id": 7320,
+      "id": 19854,
       "licenseNumber": "C10-0001819-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -751,7 +751,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "STIIIZY San Jose LLC",
       "url": "license-c10-0001819-lic.html",
       "cityMatches": [
@@ -764,7 +764,7 @@
       "searchText": "STIIIZY San Jose LLC Stiiizy San Jose LLC C10-0001819-LIC 1695 S 7th St Stiiizy I/Caliva"
     },
     {
-      "id": 5512,
+      "id": 18404,
       "licenseNumber": "C10-0001576-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -778,7 +778,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "The Cake House San Jose",
       "url": "license-c10-0001576-lic.html",
       "cityMatches": [
@@ -791,7 +791,7 @@
       "searchText": "The Cake House San Jose Bundy Canyon, LLC C10-0001576-LIC 1075 N 10th St Cakehouse"
     },
     {
-      "id": 1008,
+      "id": 16699,
       "licenseNumber": "C10-0000565-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -805,7 +805,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95133",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Theraleaf",
       "url": "license-c10-0000565-lic.html",
       "cityMatches": [
@@ -818,7 +818,7 @@
       "searchText": "Theraleaf Relentless Enterprises, Inc. C10-0000565-LIC 1014 Timothy Dr Theraleaf"
     },
     {
-      "id": 10170,
+      "id": 18445,
       "licenseNumber": "C12-0000333-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Microbusiness",
@@ -827,12 +827,12 @@
       "expirationDate": "2026-12-09T00:00:00",
       "businessLegalName": "Ul San Jose LLC",
       "businessDbaName": "Urbn Leaf",
-      "activity": "Nursery, Cultivator (less than 10K sq ft), Distributor, Retailer",
+      "activity": "Nursery, Retailer, Cultivator (less than 10K sq ft), Distributor",
       "premiseStreetAddress": "2943 Daylight Way",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Urbn Leaf",
       "url": "license-c12-0000333-lic.html",
       "cityMatches": [
@@ -845,7 +845,7 @@
       "searchText": "Urbn Leaf Ul San Jose LLC C12-0000333-LIC 2943 Daylight Way Urbn Leaf"
     },
     {
-      "id": 7239,
+      "id": 20811,
       "licenseNumber": "C10-0001797-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -859,7 +859,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Wf Enterprises Medical, Inc.",
       "url": "license-c10-0001797-lic.html",
       "cityMatches": [
@@ -872,7 +872,7 @@
       "searchText": "Wf Enterprises Medical, Inc. Wf Enterprises Medical, Inc. C10-0001797-LIC 111 Old Tully Rd White Fire"
     },
     {
-      "id": 19491,
+      "id": 11177,
       "licenseNumber": "C10-0000117-LIC",
       "licenseStatus": "Active",
       "licenseType": "Commercial -  Retailer",
@@ -886,7 +886,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "White Fire",
       "url": "license-c10-0000117-lic.html",
       "cityMatches": [
@@ -899,7 +899,7 @@
       "searchText": "White Fire Wf Enterprises, Inc. C10-0000117-LIC 111 Old Tully Rd White Fire"
     },
     {
-      "id": 9538,
+      "id": 15287,
       "licenseNumber": "C12-0000216-LIC",
       "licenseStatus": "Surrendered",
       "licenseType": "Commercial -  Microbusiness",
@@ -908,12 +908,12 @@
       "expirationDate": "2024-07-23T00:00:00",
       "businessLegalName": "Caliva Camisj2, Inc",
       "businessDbaName": "Deli by Caliva San Jose",
-      "activity": "Distributor, Retailer, Level 1 Manufacturer",
+      "activity": "Distributor, Level 1 Manufacturer, Retailer",
       "premiseStreetAddress": "92 Pullman Way",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Deli by Caliva San Jose",
       "url": "license-c12-0000216-lic.html",
       "cityMatches": [
@@ -926,7 +926,7 @@
       "searchText": "Deli by Caliva San Jose Caliva Camisj2, Inc C12-0000216-LIC 92 Pullman Way Stiiizy II/Deli by Caliva San Jose"
     },
     {
-      "id": 486,
+      "id": 17118,
       "licenseNumber": "C12-0000183-LIC",
       "licenseStatus": "Expired",
       "licenseType": "Commercial -  Microbusiness",
@@ -935,19 +935,19 @@
       "expirationDate": "2025-07-15T00:00:00",
       "businessLegalName": "Jn Development, Inc.",
       "businessDbaName": "Haze",
-      "activity": "Cultivator (less than 10K sq ft), Indoor, Level 1 Manufacturer, Retailer, Distributor",
+      "activity": "Retailer, Cultivator (less than 10K sq ft), Indoor, Level 1 Manufacturer, Distributor",
       "premiseStreetAddress": "1761 Smith Ave",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Haze",
       "url": "license-c12-0000183-lic.html",
       "cityMatches": [],
       "searchText": "Haze Jn Development, Inc. C12-0000183-LIC 1761 Smith Ave"
     },
     {
-      "id": 9617,
+      "id": 17243,
       "licenseNumber": "C12-0000237-LIC",
       "licenseStatus": "Expired",
       "licenseType": "Commercial -  Microbusiness",
@@ -961,14 +961,14 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "Herbs",
       "url": "license-c12-0000237-lic.html",
       "cityMatches": [],
       "searchText": "Herbs Bw Macaw Group, Inc. C12-0000237-LIC 543 Parrott St"
     },
     {
-      "id": 8275,
+      "id": 15393,
       "licenseNumber": "C12-0000112-LIC",
       "licenseStatus": "Surrendered",
       "licenseType": "Commercial -  Microbusiness",
@@ -977,12 +977,12 @@
       "expirationDate": "2021-06-26T00:00:00",
       "businessLegalName": "Dfws, Inc.",
       "businessDbaName": "The Guild",
-      "activity": "Cultivator (less than 10K sq ft), Level 1 Manufacturer, Retailer, Distributor",
+      "activity": "Cultivator (less than 10K sq ft), Distributor, Level 1 Manufacturer, Retailer",
       "premiseStreetAddress": "2943 Daylight Way",
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95111",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "The Guild",
       "url": "license-c12-0000112-lic.html",
       "cityMatches": [
@@ -995,7 +995,7 @@
       "searchText": "The Guild Dfws, Inc. C12-0000112-LIC 2943 Daylight Way Urbn Leaf"
     },
     {
-      "id": 9360,
+      "id": 16878,
       "licenseNumber": "C12-0000144-LIC",
       "licenseStatus": "Expired",
       "licenseType": "Commercial -  Microbusiness",
@@ -1009,7 +1009,7 @@
       "premiseCity": "San Jose",
       "premiseState": "CA",
       "premiseZipCode": "95112",
-      "dataRefreshedDate": "2026-09-28T11:43:56.0633333",
+      "dataRefreshedDate": "2026-09-29T07:43:19.52",
       "displayName": "VIKTORIYA'S MEDICAL SUPPLIES, LLC",
       "url": "license-c12-0000144-lic.html",
       "cityMatches": [
